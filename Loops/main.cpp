@@ -4,7 +4,7 @@ using namespace std;
 
 //#define WHILE
 //#define DO_WHILE
-#define TASK_PALINDROME
+//#define TASK_PALINDROME
 //#define TASK_SHOOTER
 
 void main()
